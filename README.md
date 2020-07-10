@@ -7,5 +7,5 @@
 <a href="https://stackoverflow.com/users/13142131/antonio-falc%c3%a3o-jr"><img height="22" src="img/estouro-de-pilha.png"></a>&nbsp;&nbsp;
 <a href="https://dev.to/antoniofalcao"><img height="23" src="img/dev.png" alt=""></a>&nbsp;&nbsp;
 <a href="https://antoniofalcao.github.io/"><img height="24" src="img/external.png" alt=""></a>&nbsp;&nbsp;
-<a href="mailto:arfj@edu.univali.br"><img height="25" src="img/enviar.png" alt=""></a>
+<a href="mailto:arfj@edu.univali.br"><img height="25" src="img/mail.png" alt=""></a>
 </p>
