@@ -1,5 +1,5 @@
 <h3 align='center'><samp><strong>Antônio Falcão Jr.</strong> 👋</samp></h3> 
-<p align='center'> <samp>Computer Scientist <br> Software Architecture Specialist <br> Master's student in Computer Science <br> Staff Engineer & Trusted Architect </samp></p>
+<p align='center'> <samp>Computer Scientist <br> Software Architecture Specialist <br> Master's student in Computer Science <br> Staff Software Engineer & Trusted Architect </samp></p>
 <br><br>
 <p align='center'>
 <a href="https://br.linkedin.com/"><img height="26" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
