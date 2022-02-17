@@ -5,19 +5,18 @@
 
 <div align='center'>  
 
-[![](img/linkedin.png#gh-dark-mode-only)](https://br.linkedin.com/)
-[![](img/linkedinicon-light.png#gh-light-mode-only)](https://br.linkedin.com/)
-
-[![](img/medio.png#gh-dark-mode-only)](https://antoniofalcaojr.medium.com/)
-[![](img/estouro-de-pilha.png#gh-dark-mode-only)](https://stackoverflow.com/story/antoniofalcao/)
-[![](img/dev.png#gh-dark-mode-only)](https://dev.to/antoniofalcao/)
-[![](img/external.png#gh-dark-mode-only)](https://antoniofalcao.github.io/)
-[![](img/mail.png#gh-dark-mode-only)](mailto:arfj@edu.univali.br)
-[![](img/medio.png#gh-light-mode-only)](https://antoniofalcaojr.medium.com/)
-[![](img/estouro-de-pilha.png#gh-light-mode-only)](https://stackoverflow.com/story/antoniofalcao/)
-[![](img/dev.png#gh-light-mode-only)](https://dev.to/antoniofalcao/)
-[![](img/external.png#gh-light-mode-only)](https://antoniofalcao.github.io/)
-[![](img/mail.png#gh-light-mode-only)](mailto:arfj@edu.univali.br)
+[![](img/linkedin.png)](https://br.linkedin.com#gh-dark-mode-only)
+[![](img/medio.png)](https://antoniofalcaojr.medium.com#gh-dark-mode-only)
+[![](img/estouro-de-pilha.png)](https://stackoverflow.com/story/antoniofalcao#gh-dark-mode-only)
+[![](img/dev.png)](https://dev.to/antoniofalcao#gh-dark-mode-only)
+[![](img/external.png)](https://antoniofalcao.github.io#gh-dark-mode-only)
+[![](img/mail.png)](mailto:arfj@edu.univali.br#gh-dark-mode-only)
+[![](img/linkedin-light.png)](https://br.linkedin.com#gh-light-mode-only)
+[![](img/medio.png)](https://antoniofalcaojr.medium.com#gh-light-mode-only)
+[![](img/estouro-de-pilha.png)](https://stackoverflow.com/story/antoniofalcao#gh-light-mode-only)
+[![](img/dev.png)](https://dev.to/antoniofalcao#gh-light-mode-only)
+[![](img/external.png)](https://antoniofalcao.github.io#gh-light-mode-only)
+[![](img/mail.png)](mailto:arfj@edu.univali.br#gh-light-mode-only)
 
 </div>
 
