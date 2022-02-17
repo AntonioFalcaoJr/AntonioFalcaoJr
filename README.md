@@ -6,12 +6,13 @@
 <div align='center'>  
 
 [![](img/linkedin.png#gh-dark-mode-only)](https://br.linkedin.com/)
+[![](img/linkedinicon-light.png#gh-light-mode-only)](https://br.linkedin.com/)
+
 [![](img/medio.png#gh-dark-mode-only)](https://antoniofalcaojr.medium.com/)
 [![](img/estouro-de-pilha.png#gh-dark-mode-only)](https://stackoverflow.com/story/antoniofalcao/)
 [![](img/dev.png#gh-dark-mode-only)](https://dev.to/antoniofalcao/)
 [![](img/external.png#gh-dark-mode-only)](https://antoniofalcao.github.io/)
 [![](img/mail.png#gh-dark-mode-only)](mailto:arfj@edu.univali.br)
-[![](img/linkedinicon-light.png#gh-light-mode-only)](https://br.linkedin.com/)
 [![](img/medio.png#gh-light-mode-only)](https://antoniofalcaojr.medium.com/)
 [![](img/estouro-de-pilha.png#gh-light-mode-only)](https://stackoverflow.com/story/antoniofalcao/)
 [![](img/dev.png#gh-light-mode-only)](https://dev.to/antoniofalcao/)
