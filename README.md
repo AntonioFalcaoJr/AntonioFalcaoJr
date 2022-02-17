@@ -9,6 +9,3 @@
 <a href="https://antoniofalcao.github.io/"><img height="27" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/external.png#gh-light-mode-only?raw=true" alt=""></a>&nbsp;&nbsp;
 <a href="mailto:arfj@edu.univali.br"><img height="22" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/mail.png#gh-light-mode-only?raw=true" alt=""></a>
 </p>
-
-
-![Termux Logo](https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/linkedin.png#gh-light-mode-only")
