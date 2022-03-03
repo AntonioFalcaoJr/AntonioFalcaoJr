@@ -24,4 +24,3 @@
 [![](img/mail-light.png)](mailto:arfj@edu.univali.br/#gh-dark-mode-only)
 
 </div>
-
