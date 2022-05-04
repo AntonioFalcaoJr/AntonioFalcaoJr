@@ -3,6 +3,7 @@
 <h3><samp><strong>Antônio Falcão Jr.</strong> 👋 </samp></h3>
 
 <p> <samp>Computer Scientist, <br> Software Architecture Specialist, <br> Master's student in Computer Science, <br> Staff Software Engineer & Trusted Architect. </samp></p>
+  
 
 [![](img/linkedin.png)](https://br.linkedin.com/#gh-light-mode-only)
 [![](img/medium.png)](https://antoniofalcaojr.medium.com/#gh-light-mode-only)
