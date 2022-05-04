@@ -4,8 +4,6 @@
 
 <p> <samp>Computer Scientist, <br> Software Architecture Specialist, <br> Master's student in Computer Science, <br> Staff Software Engineer & Trusted Architect. </samp></p>
 
-<br>
-
 [![](img/linkedin.png)](https://br.linkedin.com/#gh-light-mode-only)
 [![](img/medium.png)](https://antoniofalcaojr.medium.com/#gh-light-mode-only)
 [![](img/stackoverflow.png)](https://stackoverflow.com/story/antoniofalcao/#gh-light-mode-only)
