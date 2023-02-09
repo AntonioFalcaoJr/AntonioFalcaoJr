@@ -2,7 +2,7 @@
 
 <h3><samp><strong>Antônio Falcão Jr.</strong> 👋 </samp></h3>
 
-<p> <samp>B.Sc & M.Sc student in Computer Science, <br> Software Architecture Specialist, <br> Staff Software Engineer. </samp></p>
+<p> <samp>BSc & MSc student in Computer Science, <br> Software Architecture Specialist, <br> Staff Software Engineer. </samp></p>
 
   <br>
   
