@@ -1,6 +1,6 @@
 <div align='center'>
 
-<h3><samp><strong>Antônio Falcão Jr.</strong> 👋 </samp></h3>
+<h3><samp><strong>@AntonioFalcaoJr</strong> 👋 </samp></h3>
 
 <p> <samp>BSc & MSc student in Computer Science <br> Software Solutions Architect </samp></p>
 
