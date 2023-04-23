@@ -1,11 +1,9 @@
 <div align='center'>
 
 <h3><samp><strong>@AntonioFalcaoJr</strong> 👋 </samp></h3>
+<p><samp>Software Solutions Architect <br> BSc & MSc student in Computer Science</samp></p>
+<br>
 
-<p> <samp>BSc & MSc student in Computer Science <br> Software Solutions Architect </samp></p>
-
-  <br>
-  
 [![](img/twitter.png)](https://twitter.com/AntonioFalcaoJr/#gh-light-mode-only)
 [![](img/linkedin.png)](https://www.linkedin.com/in/antoniofalcaojr/#gh-light-mode-only)
 [![](img/medium.png)](https://antoniofalcaojr.medium.com/#gh-light-mode-only)
