@@ -7,7 +7,7 @@
 </h3>
 <p>
     <samp>
-        Hands-on <strong>Software Solutions Architect</strong><br>
+        Hands-on <strong>Software Solutions Architect</strong>, BSc & MSc student in <strong><a href="https://en.ufsc.br/2020/03/20/computer-science">Computer Science</a></strong>, <br>
         experienced in <strong><a href="https://www.infoq.com/articles/modeling-uncertainty-reactive-ddd">Reactive DDD</a></strong>,
         <strong><a href="https://www.eventstore.com/event-sourcing">Event Sourcing</a></strong>,
         <strong><a href="https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf">CQRS</a></strong>, and
