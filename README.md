@@ -11,7 +11,7 @@
         experienced in <strong><a href="https://www.infoq.com/articles/modeling-uncertainty-reactive-ddd">Reactive DDD</a></strong>,
         <strong><a href="https://www.eventstore.com/event-sourcing">Event Sourcing</a></strong>,
         <strong><a href="https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf">CQRS</a></strong>, and
-        <strong><a href="https://en.wikipedia.org/wiki/Distributed_computing](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638">Distributed Systems</a></strong><br>
+        <strong><a href="https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638">Distributed Systems</a></strong><br>
         within the <strong><a href="https://dotnet.microsoft.com/en-us">.NET</a></strong> ecosystem
     </samp>
 </p>
