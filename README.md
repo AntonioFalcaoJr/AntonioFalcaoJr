@@ -1,7 +1,7 @@
 <div align='center'>
 
 <h3><samp><strong>@AntonioFalcaoJr</strong> 👋 </samp></h3>
-<p><samp>Software Solutions Architect <br> BSc & MSc student in Computer Science</samp></p>
+<p><samp>Hands-on Software Solutions Architect <br> passionate about Reactive DDD, Event Sourcing, CQRS, and Distributed Systems <br> in the .NET ecosystem</samp></p>
 <br>
 
 [![](img/twitter.png)](https://twitter.com/AntonioFalcaoJr/#gh-light-mode-only)
