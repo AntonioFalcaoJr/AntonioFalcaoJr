@@ -1,7 +1,21 @@
 <div align='center'>
+  
+<h3>
+    <samp>
+        <strong>@AntonioFalcaoJr</strong> 👋
+    </samp>
+</h3>
+<p>
+    <samp>
+        Hands-on <strong>Software Solutions Architect</strong><br>
+        experienced in <strong><a href="https://www.infoq.com/articles/modeling-uncertainty-reactive-ddd">Reactive DDD</a></strong>,
+        <strong><a href="https://www.eventstore.com/event-sourcing">Event Sourcing</a></strong>,
+        <strong><a href="https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf">CQRS</a></strong>, and
+        <strong><a href="https://en.wikipedia.org/wiki/Distributed_computing](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638">Distributed Systems</a></strong><br>
+        within the <strong><a href="https://dotnet.microsoft.com/en-us">.NET</a></strong> ecosystem
+    </samp>
+</p>
 
-<h3><samp><strong>@AntonioFalcaoJr</strong> 👋 </samp></h3>
-<p><samp>Hands-on Software Solutions Architect <br> passionate about Reactive DDD, Event Sourcing, CQRS, and Distributed Systems <br> in the .NET ecosystem</samp></p>
 <br>
 
 [![](img/twitter.png)](https://twitter.com/AntonioFalcaoJr/#gh-light-mode-only)
