@@ -1,20 +1,23 @@
 <div align="center">
 
+  <h3>
+    <samp><strong>Turning ideas into scalable solutions!</strong></samp>
+  </h3>
+
   <p>
     <samp>
-      <strong>Turning ideas into scalable solutions</strong><br>
-      <strong>Software Solutions Architect</strong>, expert in 
+      <strong>Software Solutions Architect</strong>, expert in: <br> 
       <strong><a href="https://www.infoq.com/articles/modeling-uncertainty-reactive-ddd">Reactive DDD</a></strong>,
       <strong><a href="https://www.eventstore.com/event-sourcing">Event Sourcing</a></strong>,
       <strong><a href="https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf">CQRS</a></strong>,
       <strong><a href="https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638">Distributed Systems</a></strong>, and
-      <strong><a href="https://dotnet.microsoft.com/en-us">.NET</a></strong> ecosystem
+      <strong><a href="https://dotnet.microsoft.com/en-us">.NET</a></strong> ecosystem.
     </samp>
   </p>
 
-  <h3>
+  <h4>
     <samp>@AntonioFalcaoJr</samp>
-  </h3>
+  </h4>
 
   <!-- Light mode icons -->
   <a href="https://twitter.com/AntonioFalcaoJr/#gh-light-mode-only"><img src="img/twitter.png" alt="Twitter"></a>
