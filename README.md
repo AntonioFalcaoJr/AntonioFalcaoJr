@@ -1,9 +1,5 @@
 <div align="center">
 
-  <h3>
-    <samp>@AntonioFalcaoJr</samp>
-  </h3>
-
   <p>
     <samp>
       <strong>Turning ideas into scalable solutions</strong><br>
@@ -16,7 +12,9 @@
     </samp>
   </p>
 
-  <br>
+  <h3>
+    <samp>@AntonioFalcaoJr</samp>
+  </h3>
 
   <!-- Light mode icons -->
   <a href="https://twitter.com/AntonioFalcaoJr/#gh-light-mode-only"><img src="img/twitter.png" alt="Twitter"></a>
