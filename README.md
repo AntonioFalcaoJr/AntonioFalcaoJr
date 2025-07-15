@@ -1,34 +1,37 @@
-<div align='center'>
-  
-<h3>
-    <samp>
-        <strong>@AntonioFalcaoJr</strong> 👋
-    </samp>
-</h3>
-<p>
-    <samp>
-        Hands-on <strong>Software Solutions Architect</strong>, BSc & MSc student in <strong><a href="https://en.ufsc.br/2020/03/20/computer-science">Computer Science</a></strong>, <br>
-        experienced in <strong><a href="https://www.infoq.com/articles/modeling-uncertainty-reactive-ddd">Reactive DDD</a></strong>,
-        <strong><a href="https://www.eventstore.com/event-sourcing">Event Sourcing</a></strong>,
-        <strong><a href="https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf">CQRS</a></strong>, and
-        <strong><a href="https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638">Distributed Systems</a></strong><br>
-        within the <strong><a href="https://dotnet.microsoft.com/en-us">.NET</a></strong> ecosystem
-    </samp>
-</p>
+<div align="center">
 
-<br>
+  <h3>
+    <samp>@AntonioFalcaoJr</samp>
+  </h3>
 
-[![](img/twitter.png)](https://twitter.com/AntonioFalcaoJr/#gh-light-mode-only)
-[![](img/linkedin.png)](https://www.linkedin.com/in/antoniofalcaojr/#gh-light-mode-only)
-[![](img/medium.png)](https://antoniofalcaojr.medium.com/#gh-light-mode-only)
-[![](img/dev.png)](https://dev.to/antoniofalcao/#gh-light-mode-only)
-[![](img/web.png)](https://antoniofalcaojr.github.io/#gh-light-mode-only)
-[![](img/mail.png)](mailto:arfj@edu.univali.br/#gh-light-mode-only)
-[![](img/twitter-light.png)](https://twitter.com/AntonioFalcaoJr/#gh-dark-mode-only)
-[![](img/linkedin-light.png)](https://www.linkedin.com/in/antoniofalcaojr/#gh-dark-mode-only)
-[![](img/medium-light.png)](https://antoniofalcaojr.medium.com/#gh-dark-mode-only)
-[![](img/dev-light.png)](https://dev.to/antoniofalcao/#gh-dark-mode-only)
-[![](img/web-light.png)](https://antoniofalcaojr.github.io/#gh-dark-mode-only)
-[![](img/mail-light.png)](mailto:arfj@edu.univali.br/#gh-dark-mode-only)
+  <p>
+    <samp>
+      <strong>Turning ideas into scalable solutions</strong><br>
+      <strong>Software Solutions Architect</strong>, expert in 
+      <strong><a href="https://www.infoq.com/articles/modeling-uncertainty-reactive-ddd">Reactive DDD</a></strong>,
+      <strong><a href="https://www.eventstore.com/event-sourcing">Event Sourcing</a></strong>,
+      <strong><a href="https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf">CQRS</a></strong>,
+      <strong><a href="https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638">Distributed Systems</a></strong>, and
+      <strong><a href="https://dotnet.microsoft.com/en-us">.NET</a></strong> ecosystem
+    </samp>
+  </p>
+
+  <br>
+
+  <!-- Light mode icons -->
+  <a href="https://twitter.com/AntonioFalcaoJr/#gh-light-mode-only"><img src="img/twitter.png" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/antoniofalcaojr/#gh-light-mode-only"><img src="img/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://antoniofalcaojr.medium.com/#gh-light-mode-only"><img src="img/medium.png" alt="Medium"></a>
+  <a href="https://dev.to/antoniofalcao/#gh-light-mode-only"><img src="img/dev.png" alt="DEV.to"></a>
+  <a href="https://antoniofalcaojr.github.io/#gh-light-mode-only"><img src="img/web.png" alt="Website"></a>
+  <a href="mailto:arfj@edu.univali.br/#gh-light-mode-only"><img src="img/mail.png" alt="Email"></a>
+
+  <!-- Dark mode icons -->
+  <a href="https://twitter.com/AntonioFalcaoJr/#gh-dark-mode-only"><img src="img/twitter-light.png" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/antoniofalcaojr/#gh-dark-mode-only"><img src="img/linkedin-light.png" alt="LinkedIn"></a>
+  <a href="https://antoniofalcaojr.medium.com/#gh-dark-mode-only"><img src="img/medium-light.png" alt="Medium"></a>
+  <a href="https://dev.to/antoniofalcao/#gh-dark-mode-only"><img src="img/dev-light.png" alt="DEV.to"></a>
+  <a href="https://antoniofalcaojr.github.io/#gh-dark-mode-only"><img src="img/web-light.png" alt="Website"></a>
+  <a href="mailto:arfj@edu.univali.br/#gh-dark-mode-only"><img src="img/mail-light.png" alt="Email"></a>
 
 </div>
